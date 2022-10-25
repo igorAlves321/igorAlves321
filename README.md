@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, seja benvindo. 👋
 
 <!--
 **igorAlves321/igorAlves321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,7 @@ class Skills extends Desenvolvedor {
 }
 ```      
  <p align="left">
-  <a href="igorpalmeiraalves@gmail.com" alt="Gmail">
+  <a href="malto:igorpalmeiraalves@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=igorpalmeiraalves@gmail.com" /></a>
 
  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorAlves321&layout=compact)](https://github.com/igorAlves321/github-readme-stats) </a>
