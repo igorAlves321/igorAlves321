@@ -28,10 +28,10 @@ class Skills extends Desenvolvedor {
   frameworks = ['Spring'];
 }
 ```      
- <p align="left">
-  <a href="malto:igorpalmeiraalves@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=igorpalmeiraalves@gmail.com" /></a>
 
+<p align="left">
+  <a href="igorpalmeiraalves@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=igorpalmeiraalves@gmail.com" /></a>
  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorAlves321&layout=compact)](https://github.com/igorAlves321/github-readme-stats) </a>
 
 <a>![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=igorAlves321&show_icons=true) </a>
