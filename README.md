@@ -1,4 +1,4 @@
-### Olá, Seja benvindo. 👋
+### Olá, Seja bem-vindo. 👋
 
 <!--
 **igorAlves321/igorAlves321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ```js
 import Desenvolvedor from 'igorAlves321';
 
@@ -24,23 +25,44 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['JavaScript, Python, PHP, Java, C#, SQL, HTML'];
-  frameworks = ['Spring'];
+  linguagens  = ['JavaScript', 'Python', 'PHP', 'Java', 'C#', 'SQL', 'HTML'];
+  frameworks = ['Spring', 'ASP.NET Core Entity Framework'];
 }
-```      
+```
 
 <p align="left">
   <a href="mailto:igorpalmeiraalves@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=igorpalmeiraalves@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/igoralvespalmeira/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
 
- <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorAlves321&layout=compact)](https://github.com/igorAlves321/github-readme-stats) </a>
+---
 
-<a>![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=igorAlves321&show_icons=true) </a>
+### 📊 Estatísticas
+<p>
+  <a href="https://github.com/igorAlves321">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorAlves321&layout=compact&theme=radical" alt="Top Langs" />
+  </a>
+</p>
 
-  <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{igorAlves321}/count.svg"/></p> 
-<br></div>
+<p>
+  <a href="https://github.com/igorAlves321">
+    <img src="https://github-readme-stats.vercel.app/api?username=igorAlves321&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+</p>
 
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=igorAlves321&theme=gotham&hide_border=true&area=true)
-</p> 
+---
+
+### 🌟 Contribuições
+<div align="center">
+  <p><b>Contador de Visitantes</b></p>
+  <p>
+    <img align="center" src="https://profile-counter.glitch.me/{igorAlves321}/count.svg" alt="Visitors Count" />
+  </p>
+  <p>
+    <img src="https://activity-graph.herokuapp.com/graph?username=igorAlves321&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  </p>
+</div>
+
+---
